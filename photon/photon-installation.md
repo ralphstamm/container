@@ -1,6 +1,14 @@
 # Photon Installation
 
-## Getting Super Powers
+## Pre-Installation
+
+### Download Image
+
+## Installation
+
+### VSphere Esxi Console
+
+## Post-Installation
 
 ### Change the Hostname [^1]
 
