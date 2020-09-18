@@ -5,7 +5,7 @@
 
 ## Photon
 
-* [Untitled](photon/untitled.md)
+* [Installation](photon/untitled.md)
 
 ## Kubernetes
 
