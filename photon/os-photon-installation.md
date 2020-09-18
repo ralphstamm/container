@@ -25,4 +25,4 @@ echo 'You got to trust me on this, I saved the world'
 
 
 
-[^2]: https://pingforinfo.com/change-hostname-of-vcloud-director-appliance/
+[^1]: https://pingforinfo.com/change-hostname-of-vcloud-director-appliance/
