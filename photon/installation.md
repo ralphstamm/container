@@ -8,12 +8,11 @@
 
 ### Post-Installation
 
-#### Change the Hostname
+#### Change the Hostname [^1]
 
 
 
 The Hostname can be changed with:
-https://pingforinfo.com/change-hostname-of-vcloud-director-appliance/
 ```
 hostnamectl set-hostname photon-master
 ```
@@ -33,3 +32,4 @@ echo 'You got to trust me on this, I saved the world'
 
 
 
+[^1]: https://pingforinfo.com/change-hostname-of-vcloud-director-appliance/
