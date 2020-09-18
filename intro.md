@@ -1,10 +1,10 @@
-# Container Howto
+# Intro
 
-## Install the VMware Photon
+## Understand Containers
 
-Download
+The Evolution from Traditional to Containerized Environments
 
-[https://github.com/vmware/photon/wiki/Downloading-Photon-OS](https://github.com/vmware/photon/wiki/Downloading-Photon-OS)
+![](.gitbook/assets/container_evolution.svg)
 
 ```
 $ give me super-powers
@@ -22,12 +22,6 @@ Once you're strong enough, save the world:
 echo 'You got to trust me on this, I saved the world'
 ```
 {% endcode %}
-
-### Configure the Photon Host
-
-### Configure Kubernetes
-
-
 
 
 

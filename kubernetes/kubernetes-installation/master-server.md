@@ -1,10 +1,8 @@
-# Container Howto
+# Master Server
 
-## Install the VMware Photon
+## Getting Super Powers
 
-Download
-
-[https://github.com/vmware/photon/wiki/Downloading-Photon-OS](https://github.com/vmware/photon/wiki/Downloading-Photon-OS)
+Becoming a super hero is a fairly straight forward process:
 
 ```
 $ give me super-powers
@@ -22,12 +20,6 @@ Once you're strong enough, save the world:
 echo 'You got to trust me on this, I saved the world'
 ```
 {% endcode %}
-
-### Configure the Photon Host
-
-### Configure Kubernetes
-
-
 
 
 
