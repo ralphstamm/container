@@ -2,7 +2,7 @@
 
 ## Getting Super Powers
 
-### Change the Hostname 
+### Change the Hostname [^1]
 
 Changing Hostname of the appliance is easy:
 
@@ -25,3 +25,4 @@ echo 'You got to trust me on this, I saved the world'
 
 
 
+[^2]: https://pingforinfo.com/change-hostname-of-vcloud-director-appliance/
