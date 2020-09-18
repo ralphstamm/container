@@ -8,12 +8,11 @@
 
 ### Post-Installation
 
-#### Change the Hostname [^1]
-
-
+#### Change the Hostname 
 
 The Hostname can be changed with:
-```
+
+```text
 hostnamectl set-hostname photon-master
 ```
 
@@ -21,15 +20,20 @@ hostnamectl set-hostname photon-master
 I would not recommend using this workaround in your production environment without being directed to make this change by VMware support or officially documented by VMware.
 {% endhint %}
 
-Once you're strong enough, save the world:
+The Output should then be
 
-{% code title="hello.sh" %}
+{% code title="hostnamectl" %}
 ```bash
 # Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
+ Static hostname: photon-master
+         Icon name: computer-vm
+           Chassis: vm
+        Machine ID: 
+           Boot ID: 
+    Virtualization: vmware
+  Operating System: VMware Photon OS/Linux
+            Kernel: Linux 4.19.138-11.ph3-esx
+      Architecture: x86-64
 ```
 {% endcode %}
 
-
-
-[^1]: https://pingforinfo.com/change-hostname-of-vcloud-director-appliance/
