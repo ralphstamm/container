@@ -11,7 +11,7 @@ hostnamectl set-hostname photon-master
 ```
 
 {% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
+ I would not recommend using this workaround in your production environment without being directed to make this change by VMware support or officially documented by VMware.
 {% endhint %}
 
 Once you're strong enough, save the world:
