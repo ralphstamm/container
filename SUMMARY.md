@@ -3,11 +3,6 @@
 * [Container Howto](README.md)
 * [Intro](intro.md)
 
-## Photon
-
-* [Photon Installation](photon/os-photon-installation.md)
-* [Untitled](photon/untitled.md)
-
 ## Kubernetes
 
 * [Kubernetes Installation](kubernetes/kubernetes-installation/README.md)
