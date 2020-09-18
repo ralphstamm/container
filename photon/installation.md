@@ -13,7 +13,7 @@
 
 
 The Hostname can be changed with:
-
+https://pingforinfo.com/change-hostname-of-vcloud-director-appliance/
 ```
 hostnamectl set-hostname photon-master
 ```
