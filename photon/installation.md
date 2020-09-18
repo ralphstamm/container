@@ -20,7 +20,7 @@ hostnamectl set-hostname photon-master
 I would not recommend using this workaround in your production environment without being directed to make this change by VMware support or officially documented by VMware.
 {% endhint %}
 
-The Output should then be
+The Output should then be:
 
 {% code title="hostnamectl" %}
 ```bash
